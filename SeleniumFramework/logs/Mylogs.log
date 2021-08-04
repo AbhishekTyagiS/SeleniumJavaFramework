@@ -1,0 +1,4 @@
+[INFO ] 2021-08-02 06:31:06.661 [main] Dlog4J - This is info message
+[ERROR] 2021-08-02 06:31:06.677 [main] Dlog4J - This is a error message
+[WARN ] 2021-08-02 06:31:06.678 [main] Dlog4J - This is a warning message
+[FATAL] 2021-08-02 06:31:06.679 [main] Dlog4J - This is a fatal message
